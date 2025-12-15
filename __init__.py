@@ -1,1 +1,1 @@
-# Core logic package (filters, floor engine).
+# Adapters for projections (ML or manual).
