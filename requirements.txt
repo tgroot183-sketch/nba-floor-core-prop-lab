@@ -1,0 +1,6 @@
+# Minimal version – standard library only for now.
+# Later (Phase 2) you can add:
+# nba_api
+# pandas
+# numpy
+# scikit-learn
