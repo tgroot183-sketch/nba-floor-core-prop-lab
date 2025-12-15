@@ -1,1 +1,1 @@
-# Marks src as a package.
+# Core logic package (filters, floor engine).
