@@ -1,0 +1,202 @@
+{
+  "NYK_ORL_CUP_SEMI": {
+    "players": [
+      {
+        "player_id": 1,
+        "name": "Jalen Brunson",
+        "team": "NYK",
+        "position": "PG",
+        "is_rookie": false,
+        "games_played_role": 30,
+        "minutes_season_avg": 36.0,
+        "minutes_last10_avg": 37.0,
+        "injury_status": "healthy",
+        "role_stability_flag": true,
+        "markets": [
+          {
+            "stat_type": "AST",
+            "book": "DK",
+            "main_line": 6.5,
+            "odds": "-115",
+            "season_mean": 6.3,
+            "last10_mean": 6.5,
+            "crash_rate": 0.25,
+            "crash_sample_size": 30
+          }
+        ]
+      },
+      {
+        "player_id": 2,
+        "name": "Karl-Anthony Towns",
+        "team": "NYK",
+        "position": "C",
+        "is_rookie": false,
+        "games_played_role": 30,
+        "minutes_season_avg": 33.0,
+        "minutes_last10_avg": 34.0,
+        "injury_status": "healthy",
+        "role_stability_flag": true,
+        "markets": [
+          {
+            "stat_type": "REB",
+            "book": "DK",
+            "main_line": 11.5,
+            "odds": "+100",
+            "season_mean": 12.0,
+            "last10_mean": 11.2,
+            "crash_rate": 0.18,
+            "crash_sample_size": 30
+          }
+        ]
+      },
+      {
+        "player_id": 3,
+        "name": "Desmond Bane",
+        "team": "ORL",
+        "position": "G",
+        "is_rookie": false,
+        "games_played_role": 30,
+        "minutes_season_avg": 34.0,
+        "minutes_last10_avg": 35.0,
+        "injury_status": "healthy",
+        "role_stability_flag": true,
+        "markets": [
+          {
+            "stat_type": "PRA",
+            "book": "FD",
+            "main_line": 29.5,
+            "odds": "-110",
+            "season_mean": 27.9,
+            "last10_mean": 30.5,
+            "crash_rate": 0.28,
+            "crash_sample_size": 30
+          }
+        ]
+      },
+      {
+        "player_id": 4,
+        "name": "Paolo Banchero",
+        "team": "ORL",
+        "position": "F",
+        "is_rookie": false,
+        "games_played_role": 30,
+        "minutes_season_avg": 34.0,
+        "minutes_last10_avg": 34.0,
+        "injury_status": "healthy",
+        "role_stability_flag": true,
+        "markets": [
+          {
+            "stat_type": "REB",
+            "book": "FD",
+            "main_line": 7.5,
+            "odds": "-105",
+            "season_mean": 7.9,
+            "last10_mean": 7.0,
+            "crash_rate": 0.3,
+            "crash_sample_size": 30
+          }
+        ]
+      }
+    ]
+  },
+  "SAS_OKC_CUP_SEMI": {
+    "players": [
+      {
+        "player_id": 5,
+        "name": "Victor Wembanyama",
+        "team": "SAS",
+        "position": "F/C",
+        "is_rookie": false,
+        "games_played_role": 12,
+        "minutes_season_avg": 30.0,
+        "minutes_last10_avg": 30.0,
+        "injury_status": "minutes_cap",
+        "role_stability_flag": true,
+        "markets": [
+          {
+            "stat_type": "REB",
+            "book": "DK",
+            "main_line": 8.5,
+            "odds": "-115",
+            "season_mean": 12.9,
+            "last10_mean": 12.5,
+            "crash_rate": 0.22,
+            "crash_sample_size": 12
+          }
+        ]
+      },
+      {
+        "player_id": 6,
+        "name": "De'Aaron Fox",
+        "team": "SAS",
+        "position": "PG",
+        "is_rookie": false,
+        "games_played_role": 30,
+        "minutes_season_avg": 35.0,
+        "minutes_last10_avg": 35.0,
+        "injury_status": "healthy",
+        "role_stability_flag": true,
+        "markets": [
+          {
+            "stat_type": "AST",
+            "book": "DK",
+            "main_line": 6.5,
+            "odds": "+105",
+            "season_mean": 6.3,
+            "last10_mean": 6.5,
+            "crash_rate": 0.25,
+            "crash_sample_size": 30
+          }
+        ]
+      },
+      {
+        "player_id": 7,
+        "name": "Shai Gilgeous-Alexander",
+        "team": "OKC",
+        "position": "G",
+        "is_rookie": false,
+        "games_played_role": 30,
+        "minutes_season_avg": 34.0,
+        "minutes_last10_avg": 34.0,
+        "injury_status": "healthy",
+        "role_stability_flag": true,
+        "markets": [
+          {
+            "stat_type": "PTS",
+            "book": "FD",
+            "main_line": 30.5,
+            "odds": "-115",
+            "season_mean": 32.6,
+            "last10_mean": 31.5,
+            "crash_rate": 0.25,
+            "crash_sample_size": 30
+          }
+        ]
+      },
+      {
+        "player_id": 8,
+        "name": "Jalen Williams",
+        "team": "OKC",
+        "position": "G/F",
+        "is_rookie": false,
+        "games_played_role": 25,
+        "minutes_season_avg": 32.0,
+        "minutes_last10_avg": 32.5,
+        "injury_status": "healthy",
+        "role_stability_flag": true,
+        "markets": [
+          {
+            "stat_type": "AST",
+            "book": "FD",
+            "main_line": 6.5,
+            "odds": "-110",
+            "season_mean": 6.2,
+            "last10_mean": 6.5,
+            "crash_rate": 0.2,
+            "crash_sample_size": 25
+          }
+        ]
+      }
+    ]
+  }
+}
