@@ -1,1 +1,1 @@
-# Adapters for projections (ML or manual).
+# Command-line entrypoints.
